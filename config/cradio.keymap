@@ -84,7 +84,7 @@
     symbols_layer { // doubles / ? < > ' " (semi/colon to default?)
       bindings = <
         &kp PRCT  &kp DLLR  &kp HASH    &kp ATSN  &kp STAR        &kp CRRT    &kp DQT   &kp GRAV    &kp QUOT   &kp TILDE
-        &kp PIPE  &kp AMPS  &kp QMARK   &kp BANG  &kp PLUS        &kp COLON   &kp MINUS  &kp UNDER   &kp EQUAL   &kp SEMI
+        &kp PIPE  &kp AMPS  &kp BANG   &kp QMARK  &kp PLUS        &kp COLON   &kp MINUS  &kp UNDER   &kp EQUAL   &kp SEMI
         &kp LT    &kp LBKT  &kp LPAR    &kp LBRC  &kp BSLH        &kp FSLH    &kp RBRC  &kp RPAR    &kp RBKT    &kp GT
                                         &kp LGUI  &kp LSFT        &trans  &mo MEDIA 
       >;
